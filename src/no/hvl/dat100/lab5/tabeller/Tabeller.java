@@ -6,7 +6,8 @@ public class Tabeller {
 	public static void skrivUt(int[] tabell) {
 
 		// TODO
-		throw new UnsupportedOperationException("skrivUt ikke implementert");
+		//nå skal eg begynne på oppgaven
+		throw new UnsupportedOperationException("  skrivUt ikke implementert");
 
 	}
 
